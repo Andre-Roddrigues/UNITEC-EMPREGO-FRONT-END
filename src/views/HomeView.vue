@@ -5,7 +5,7 @@
       <router-link to="/login">
         <button class="button">Ir para a página de login</button>
       </router-link>
-      <router-link to="/sms">
+      <router-link to="/reset">
         <button class="button">Ir para a página de Resetar Senha</button>
       </router-link>
     </div>
